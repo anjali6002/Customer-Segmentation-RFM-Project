@@ -42,7 +42,3 @@ Based on the segmented analysis, specific strategies were developed for each cus
 
 ## Final Dashboard
 <img width="916" height="499" alt="Screenshot (886)" src="https://github.com/user-attachments/assets/f312dc27-1f24-4b61-9c2a-47c936ce9f1f" />
-
-
-
-Here is a look at the final dashboard that summarizes the entire project.
