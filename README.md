@@ -41,5 +41,5 @@ Based on the segmented analysis, specific strategies were developed for each cus
 ---
 
 ## Final Dashboard
-<img width="912" height="501" alt="Screenshot (887)" src="https://github.com/user-attachments/assets/e2aa2429-38aa-4ce9-80d7-f332371fea6d" />
- />
+<img width="895" height="499" alt="Screenshot (904)" src="https://github.com/user-attachments/assets/a0bba79b-9ae7-4509-a4c8-18276092b381" />
+
